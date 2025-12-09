@@ -20,7 +20,7 @@ from tqdm import tqdm # for evaluation loop
 # Hardcoded Secrets
 HF_TOKEN = os.environ.get("HF_TOKEN")
 OPENAI_API_KEY = os.environ.get("OPEN_AI")
-WANDB_API_KEY = os.environ.get("WANDB_API")
+WANDB_API_KEY = os.environ.get("WANDB_API_KEY")
 
 # Hugging Face Login
 if not HF_TOKEN:
