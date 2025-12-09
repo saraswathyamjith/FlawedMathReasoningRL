@@ -1,2 +1,2 @@
-# Flawed Math Reasoning RL
-by Saraswathy, Mihika, Neha, Shweta for NLP 
+# Improving Accuracy of LLMs on Mathematical Tasks Using *Flawed Thinking*?
+By: Saraswathy Amjith, Mihika Dusad, Neha Muramalla, Shweta Shah (MIT 6.4610 Final Project) 
