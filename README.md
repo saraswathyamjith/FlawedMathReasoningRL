@@ -1,7 +1,6 @@
 # Improving Accuracy of LLMs on Mathematical Tasks Using *Flawed Thinking* Chain-of-Thought Injections
 
 **Authors:** Saraswathy Amjith, Mihika Dusad, Neha Muramalla, Shweta Shah  
-**Course:** MIT 6.4610 (Natural Language Processing) Final Project
 
 ---
 
